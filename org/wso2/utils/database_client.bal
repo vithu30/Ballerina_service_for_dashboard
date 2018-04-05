@@ -14,7 +14,7 @@
 // specific language governing permissions and limitations
 // under the License.
 
-package org.wso2.github_dashboard;
+package org.wso2.utils;
 
 import ballerina.data.sql;
 import ballerina.time;
